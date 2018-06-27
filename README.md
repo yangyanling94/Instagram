@@ -24,11 +24,11 @@ A photo-sharing app to upload photos to share with other users and view other us
 Users can user their username and password to get into their accounts.</br>
 ![](readmeDemo/gif/login.gif)
 
-* Advanced Keyboard Management</br>
-1. Initiating sign up or login process by pressing enter key</br>
+Advanced Keyboard Management</br>
+1.Initiating sign up or login process by pressing enter key</br>
 ![](readmeDemo/gif/keyboard_enter.gif)
 
-2. shutting down the keyboard by tapping elsewhere on the screen</br>
+2.shutting down the keyboard by tapping elsewhere on the screen</br>
 ![](readmeDemo/gif/shut_down_keyboard.gif)
 
 
