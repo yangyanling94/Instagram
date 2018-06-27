@@ -29,7 +29,6 @@ Users can user their username and password to get into their accounts.</br>
 ![](readmeDemo/gif/keyboard_enter.gif)
 
 2. shutting down the keyboard by tapping elsewhere on the screen</br>
-* Sticky Navigation Bar</br>
 ![](readmeDemo/gif/shut_down_keyboard.gif)
 
 
@@ -42,7 +41,7 @@ Set up parse server on AWS instance to save user data in the cloud which could s
 ### User List Display
 -----------
 Display a list of all the users, from which you can get to see other user's shared photos.</br>
-![](readmeDemo/pic/user-list.jpg)
+![](readmeDemo/pic/users.jpg)
 
 
 ### Share Photos
@@ -60,7 +59,7 @@ Let users to select one to view all the photos the user has shared.</br>
 
 ### Log Out
 -----------
-Customer feedbacks of service.</br>
+Log out the user's account and go back to the login interface.</br>
 ![](readmeDemo/gif/log_out.gif)
 
 ## About me
