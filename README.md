@@ -41,7 +41,7 @@ Set up parse server on AWS instance to save user data in the cloud which could s
 ### User List Display
 -----------
 Display a list of all the users, from which you can get to see other user's shared photos.</br>
-![](readmeDemo/pic/user-list.jpg)
+![](readmeDemo/pic/user-list.png)
 
 
 ### Share Photos
