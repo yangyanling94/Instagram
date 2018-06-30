@@ -9,7 +9,7 @@ A photo-sharing app to upload photos to share with other users and view other us
 	* **AWS**  - save adll user data in the cloud
 	* **Android Studio** - development tool used
 
-* Page Sections
+* App Sections
 	* [Sign up and Login](#sign-up-and-login)
 	* [Data Storage](#data-storage)
 	* [User List Display](#user-list-display)
