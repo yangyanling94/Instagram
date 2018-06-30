@@ -1,4 +1,4 @@
-# Mini Instagram Clone
+# Mini PicShare
 
 A photo-sharing app to upload photos to share with other users and view other user’s feed.
 
